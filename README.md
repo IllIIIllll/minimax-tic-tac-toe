@@ -7,12 +7,12 @@
 .
 ├── ttt/
 │   ├── agent/
-│   │   └── base.py          : 에이전트 기본 인터페이스
+│   │   └── base.py      : 에이전트 기본 인터페이스
 │   ├── minimax/
-│   │   └── minimax.py          : Minimax 알고리즘
-│   ├── board.py             : Tic-Tac-Toe 게임판 구현 및 게임 현황
-│   └── types.py             : 각 선수 및 돌의 좌표
-└── play.py           : 사람과 봇 게임 진행
+│   │   └── minimax.py   : Minimax 알고리즘
+│   ├── board.py         : Tic-Tac-Toe 게임판 구현 및 게임 현황
+│   └── types.py         : 각 선수 및 돌의 좌표
+└── play.py              : 사람과 봇 게임 진행
 ```
 
 # Skills
