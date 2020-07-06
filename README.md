@@ -1,6 +1,5 @@
 # minimax-tic-tac-toe
-본 프로그램은 아래 책을 참고하여 제작되었습니다.  
-<img src="http://image.yes24.com/goods/90323579/800x0" width="30%" height="30%">
+![ttt](ttt.gif)
 
 # Tree
 ```
@@ -14,6 +13,12 @@
 │   └── types.py         : 각 선수 및 돌의 좌표
 └── play.py              : 사람과 봇 게임 진행
 ```
+
+# How to Use
+1. IDE 혹은 명령프롬프트를 이용하여 play.py 파일 실행  
+   `python play.py`
+2. 착수 위치를 열-행 순으로 입력(예를 들면 `B2`)
+3. 2를 게임이 끝날때까지 반복
 
 # Skills
 - python3
@@ -30,4 +35,3 @@
 <br>
 
 #### 문의사항은 [Issue](https://github.com/IllIIIllll/minimax-tic-tac-toe/issues) 페이지에 남겨주세요.
-
